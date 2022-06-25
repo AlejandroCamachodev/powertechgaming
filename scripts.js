@@ -1,0 +1,1 @@
+alert("Estimado usuario: Debido a las festividades no estaremos laborando los dias 25 de diciembre y 1 de enero.Les deseamos unas felices fiestas y agradecemos su comprension.")
